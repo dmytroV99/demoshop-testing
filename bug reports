@@ -1,17 +1,31 @@
-# BUG-001 — Title
+# BUG-001 — Toys category displays products from Audio category
 
 ## Severity
+Medium
+
+## Priority
 High
 
 ## Environment
-- Browser:
-- OS:
+- Browser: Chrome v
+- OS: Windows 11 
+- Page: Main page
 
 ## Steps to reproduce
-1.
-2.
-3.
+1. Open the Demo Shop main page.
+2. Select the "Toys" category.
+3. Check the displayed products.
 
 ## Expected result
+Only products belonging to the "Toys" category should be displayed.
+
+Expected products:
+- RC Drone Mini
+- Kids Robot Toy
 
 ## Actual result
+The "Toys" category also displays products that belong to the "Audio" category:
+
+- Premium Headphones
+- Bluetooth Speaker
+- Wireless Earbuds S1

@@ -4,12 +4,6 @@
 
 Functional testing of the DemoShop e-commerce application based on the provided functional requirements.
 
-## Application under test
-
-DemoShop: https://eshop-demo-766125429055.europe-central2.run.app/
-
-Admin panel: https://eshop-demo-766125429055.europe-central2.run.app/admin
-
 ## Testing scope
 
 The following functionality was tested:

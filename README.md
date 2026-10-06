@@ -1,4 +1,4 @@
-# DemoShop – QA Testing
+# DemoShop – Testing
 
 ## Overview
 
@@ -30,10 +30,9 @@ The following functionality was tested:
 
 ## Test environment
 
-- OS: Windows
-- Browser: Opera
+- OS: Windows 11 
+- Browser: Chrome
 - Testing type: Functional testing
-- Test data: Dummy data
 
 ## Defect reports
 

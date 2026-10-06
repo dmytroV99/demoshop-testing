@@ -1,0 +1,36 @@
+# BUG-002 — "Name Z-A" sorting does not sort products correctly
+
+## Severity
+Medium
+
+## Priority
+Medium
+
+## Environment
+- Browser: Chrome Version 155.0.8059.40
+- OS: Windows 11 Home x64
+- Page: Main page
+- Category: All
+
+## Steps to reproduce
+1. Open the Demo Shop main page.
+2. Select the "All" category.
+3. Open the "Sort by" dropdown.
+4. Select "Name Z-A".
+5. Check the order of the displayed products.
+
+## Expected result
+Products should be sorted alphabetically by product name in descending order (Z-A).
+
+## Actual result
+Products are not displayed in descending alphabetical order.
+
+For example, the first products displayed are:
+
+- Bluetooth Speaker
+- DSLR Camera X200
+- Gaming Keyboard RGB
+
+This order does not correspond to Z-A alphabetical sorting.
+
+## Evidence

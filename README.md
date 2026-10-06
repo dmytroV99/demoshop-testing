@@ -30,8 +30,8 @@ The following functionality was tested:
 
 ## Test environment
 
-- OS: Windows 11 
-- Browser: Chrome
+- OS: Windows 11 Home x64
+- Browser: Chrome Version 155.0.8059.40
 - Testing type: Functional testing
 
 ## Defect reports
@@ -42,7 +42,6 @@ All identified defects are documented in the bug-reports directory.
 |---|---|---|---|
 | BUG-001 | Toys category displays products from Audio category | Medium | High |
 | BUG-002 | "Name Z-A" sorting does not sort products correctly | Medium | Medium |
-| BUG-003 | Product color does not match the displayed product image | Low | Medium |
 
 ## Test coverage
 

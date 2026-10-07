@@ -41,9 +41,8 @@ All identified defects are documented in the bug-reports directory.
 | BUG-003 | Functional | Last Name field allows more than 30 characters | Medium | Medium |
 | BUG-004 | Functional | Phone country code is editable and is not automatically restored when changing country | Medium | High |
 | BUG-005 | Functional | Senior discount is 10% instead of the required 5% | Medium | High |
-| BUG-006 | Functional | Order total is calculated incorrectly on the order confirmation page | High | High |
-| BUG-007 | Functional | FLAT20 discount applies $200 instead of $20 | High | High |
-| BUG-008 | Functional | Description field is incorrectly marked as required | Medium | Medium |
+| BUG-006 | Functional | FLAT20 discount applies $200 instead of $20 | High | High |
+| BUG-007 | Functional | Description field is incorrectly marked as required | Medium | Medium |
 
 ## Test coverage
 

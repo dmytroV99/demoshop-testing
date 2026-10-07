@@ -42,7 +42,9 @@ All identified defects are documented in the bug-reports directory.
 | BUG-005 | Functional | Senior discount is 10% instead of the required 5% | Medium | High |
 | BUG-006 | Functional | FLAT20 discount applies $200 instead of $20 | High | High |
 | BUG-007 | Functional | Description field is incorrectly marked as required | Medium | Medium |
-
+| UI-001 | UI / Information | Audio discount message displays incorrect discount percentage | Low | Medium |
+| UI-002 | UI / Information | Credit Card discount is not displayed separately in order summary | Low | Medium |
+| LOC-001 | Localization / UI | Inconsistent language in product information | Low | Low |
 ## Test coverage
 
 Detailed test coverage is available in [TEST-COVERAGE.md](TEST-COVERAGE.md).

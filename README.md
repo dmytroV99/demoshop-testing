@@ -32,10 +32,14 @@ The following functionality was tested:
 
 All identified defects are documented in the bug-reports directory.
 
-| ID | Summary | Severity | Priority |
-|---|---|---|---|
-| BUG-001 | Toys category displays products from Audio category | Medium | High |
-| BUG-002 | "Name Z-A" sorting does not sort products correctly | Medium | Medium |
+- [BUG-001](bug-reports/BUG-001.md) — Toys category displays products from Audio category
+- [BUG-002](bug-reports/BUG-002.md) — "Name Z-A" sorting does not sort products correctly
+- [BUG-003](bug-reports/BUG-003.md) — Last Name field allows more than 30 characters
+- [BUG-004](bug-reports/BUG-004.md) — Phone country code is editable and is not automatically restored when changing country
+- [BUG-005](bug-reports/BUG-005.md) — Senior discount is 10% instead of the required 5%
+- [BUG-006](bug-reports/BUG-006.md) — Order total is calculated incorrectly on the order confirmation page
+- [BUG-007](bug-reports/BUG-007.md) — FLAT20 discount applies $200 instead of $20
+- [BUG-008](bug-reports/BUG-008.md) — Description field is incorrectly marked as required
 
 ## Test coverage
 

@@ -32,7 +32,6 @@ The following functionality was tested:
 
 All identified defects are documented in the bug-reports directory.
 
-### Functional Bugs
 
 | ID | Type | Title | Severity | Priority |
 |---|---|---|---|---|

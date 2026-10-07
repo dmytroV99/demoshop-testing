@@ -27,11 +27,13 @@ The following functionality was tested:
 - OS: Windows 11 Home x64
 - Browser: Chrome Version 155.0.8059.40
 - Testing type: Functional testing
+- UI / Information
+-Localization / UI
 
 ## Defect reports
 
 All identified defects are documented in the bug-reports directory.
-📋 *[View all defect reports →](./bug-reports/)*
+*[View All Bug Reports →](./bug-reports/)*
 
 
 | ID | Type | Title | Severity | Priority |

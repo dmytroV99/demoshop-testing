@@ -31,6 +31,7 @@ The following functionality was tested:
 ## Defect reports
 
 All identified defects are documented in the bug-reports directory.
+📋 *[View all defect reports →](./bug-reports/)*
 
 
 | ID | Type | Title | Severity | Priority |
